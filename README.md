@@ -9,7 +9,7 @@ The Streamlit web application provides a user-friendly interface where users can
 
 
 ## 🚀 Live Link
-[Streamlit Web Application](https://github.com/mShubham18)
+[Streamlit Web Application](https://imdbdata-sentiment-analysis.streamlit.app/)
 
 ## 📂 Project Structure
 ```
